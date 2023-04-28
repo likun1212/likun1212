@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Likun Yang
 - 👀 I’m interested in AIDD(AI for Drug Discovery)
-- 🌱 I’m currently working on protein design via machine learning
+- 🌱 I’m currently working on accelerating Protein Engineering through Artificial Intelligence
 - 📫 reach me likun_yang@foxmail.com
 
 <!---
